@@ -51,6 +51,7 @@ OBJS += rtc.o
 OBJS += spi_common_all.o spi_common_v1.o
 OBJS += timer.o timer_common_all.o
 OBJS += usart_common_all.o usart_common_f124.o
+OBJS += sdio_common_all.o
 
 OBJS += mac.o mac_stm32fxx7.o
 OBJS += phy.o phy_ksz80x1.o

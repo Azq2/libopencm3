@@ -51,6 +51,7 @@ OBJS += rtc_common_l1f024.o
 OBJS += spi_common_all.o spi_common_v1.o spi_common_v1_frf.o
 OBJS += timer.o timer_common_all.o
 OBJS += usart_common_all.o usart_common_f124.o
+OBJS += sdio_common_all.o
 
 OBJS += usb.o usb_control.o usb_standard.o usb_msc.o
 OBJS += usb_hid.o

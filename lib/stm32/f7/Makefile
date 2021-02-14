@@ -64,6 +64,7 @@ OBJS += spi_common_all.o spi_common_v2.o
 OBJS += timer_common_all.o
 OBJS += usart_common_all.o usart_common_v2.o
 OBJS += quadspi_common_v1.o
+OBJS += sdio_common_all.o
 
 # Ethernet
 OBJS += mac.o phy.o mac_stm32fxx7.o phy_ksz80x1.o
